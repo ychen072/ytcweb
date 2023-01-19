@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ytcweb/static/css/main.073c9b0a.css",
+    "main.js": "/ytcweb/static/js/main.9f9604f7.js",
+    "static/js/787.a5960ca5.chunk.js": "/ytcweb/static/js/787.a5960ca5.chunk.js",
+    "static/media/logo.svg": "/ytcweb/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ytcweb/index.html",
+    "main.073c9b0a.css.map": "/ytcweb/static/css/main.073c9b0a.css.map",
+    "main.9f9604f7.js.map": "/ytcweb/static/js/main.9f9604f7.js.map",
+    "787.a5960ca5.chunk.js.map": "/ytcweb/static/js/787.a5960ca5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9f9604f7.js"
+  ]
+}
